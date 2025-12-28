@@ -1,0 +1,10 @@
+Toko Sembako Bu Budi;Beras 5kg;60000;10
+Toko Sembako Bu Budi;Minyak Goreng 1L;15000;20
+Toko Sembako Bu Budi;Teh Melati;7000;100
+Toko Sembako Bu Budi;Gula 1kg;20000;50
+Kios Buah Segar;Apel /kg;30000;50
+Kios Buah Segar;Jeruk Medan /kg;25000;40
+Kios Buah Segar;Semangka /butir;22000;50
+Kios Daging Mbak Rose;Daging Sapi;120000;50
+Kios Daging Mbak Rose;Daging Ayam;35000;20
+Kios Sayuran Seger;Sawi Hijau;3000;30Kios Sayuran Seger;Bundle Sop;5000;15

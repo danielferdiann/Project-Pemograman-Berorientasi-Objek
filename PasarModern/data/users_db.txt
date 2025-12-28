@@ -1,0 +1,2 @@
+rafif;123;Rafif;01234;Jl. Surya 1
+daniel;123;Daniel ;123123;Jl. Kasuari
